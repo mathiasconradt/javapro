@@ -10,7 +10,7 @@ spring:
       client:
         registration:
           auth0:
-            client-name: JAVA PRO Client
+            client-name: JAVAPRO Client
             client-id: {CLIENT_ID}
             client-secret: {CIENT_SECRET}
             scope:
